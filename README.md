@@ -1,4 +1,4 @@
-# Welcome to the GitHub Profile of Chinmaya Pattanaik (QAExplainer)
+
 
 👨‍💻 **QAExplainer** | SDET | Software Quality Enthusiast |
 
