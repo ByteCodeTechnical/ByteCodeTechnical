@@ -43,7 +43,7 @@ I believe in **sharing best practices** and tips to improve testing strategies, 
 
 ## Connect With Me
 
-- 💻 **GitHub**: [@QAExplainer]([https://github.com/ByteCodeTechnical])  
+- 💻 **GitHub**: [@QAExplainer](https://github.com/ByteCodeTechnical)  
 - 🎥 **YouTube Channel**: [QAExplainer](https://www.youtube.com/@QAExplainer)  
 - 📧 **Email**: [bytetech582@gmail.com](bytetech582@gmail.com)
 
