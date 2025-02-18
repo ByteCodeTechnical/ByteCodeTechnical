@@ -1,4 +1,4 @@
-## 👨‍💻 QAExplainer  
+## QAExplainer  
 **SDET | Software Quality Enthusiast**  
 🚀 Passionate about Automation, API Testing, and Software Quality!  
 📺 Sharing QA knowledge on YouTube
